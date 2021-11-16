@@ -170,3 +170,23 @@ nav .fa{
     padding: 15px 0 25px;
     line-height: 200%;
 }
+
+.website-section{
+    width: 80%;
+    margin: auto;
+    padding-top: 80px;
+    padding-bottom: 50px;
+}
+.web-col{
+    flex-basis: 48%;
+    padding: 30px 2px;
+}
+.web-col h1{
+    text-align: center;
+}
+.web-col p{
+    font-family: cursive;
+    text-align: center;
+    padding: 15px 0 25px;
+    line-height: 200%;
+}
