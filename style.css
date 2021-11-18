@@ -172,6 +172,9 @@ nav .fa{
 .about-col img{
     width: 100%;
 }
+.about-col h4{
+    padding: 10px;
+}
 .about-col p{
     font-family: cursive;
     padding: 15px 0 25px;
